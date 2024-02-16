@@ -10,4 +10,4 @@
 
 ## Demo
 
-[Bubbles](https://berivan19.github.io/home-furnishing/)
+[Bubbles](https://berivan19.github.io/srsikadi/  )
